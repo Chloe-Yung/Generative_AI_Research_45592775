@@ -2,3 +2,5 @@ Line 1: This project studies the use of generative AI tools.
 Line 2: Quantitative data will be stored in the Quantitative_Data folder.
 Line 3: Qualitative data will be stored in the Qualitative_Data folder.
 Line 4: Team members will use GitHub for version control.
+
+Yuxi added a note about maintaining clear folder names and commit messages for collaborative research data management.
